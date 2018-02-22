@@ -1,4 +1,4 @@
-# C# Windows Forms Application. Communication with Ardunio via serial port
+# C# Windows Forms Application. Communication with Arduino via serial port
 
 This example project telling about how to communicate with a device via serial port on C#.
  The device may be a Arduino.
